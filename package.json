@@ -1,0 +1,11 @@
+{
+  "name": "emprende-full-satack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "HerbertGM <72476243+Herbert-GM@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
