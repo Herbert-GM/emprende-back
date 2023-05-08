@@ -5,6 +5,9 @@
   "author": "HerbertGM <72476243+Herbert-GM@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
